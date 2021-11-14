@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349663651221",
+    "project_id": "booknerd-4c173",
+    "storage_bucket": "booknerd-4c173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349663651221:android:aa4a75d4b7d9c95c0cc29c",
+        "android_client_info": {
+          "package_name": "com.nhnujhat.booknerd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349663651221-7vd1e2840n2v0tb63hakib91k7k69181.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMqkjz04y3ugfdKyfhwGFCwFjew-eN6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349663651221-7vd1e2840n2v0tb63hakib91k7k69181.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
